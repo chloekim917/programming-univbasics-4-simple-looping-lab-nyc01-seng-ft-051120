@@ -33,6 +33,7 @@ def return_string_array(array)
   new_array.push(array[i].to_s)
   i+=1 
   puts new_array
+  binding.pry
 end
 
 end
