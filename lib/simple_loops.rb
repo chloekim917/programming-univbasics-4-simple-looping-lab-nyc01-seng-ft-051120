@@ -32,7 +32,7 @@ def return_string_array(array)
   while i < array.length do
   new_array.push(array[i].to_s)
   i+=1 
+  puts new_array
 end
-binding.pry
-puts new_array
+
 end
