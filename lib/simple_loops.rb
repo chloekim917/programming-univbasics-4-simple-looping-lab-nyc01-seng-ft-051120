@@ -18,8 +18,8 @@ end
 
 def output_array(message)
   i = 0 
-  while i<= number
-  puts message
+  while i < message.length
+  puts message[i]
   i+=1
 end
 end
