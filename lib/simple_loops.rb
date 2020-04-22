@@ -2,4 +2,5 @@
 
 def loop_message_five_times(message)
   i = 0 
-  while i
+  while i <=5 do
+    p
