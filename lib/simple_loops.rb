@@ -32,4 +32,3 @@ def return_string_array(array)
   i+=1 
   end
 end
-puts new_array
