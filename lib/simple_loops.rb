@@ -32,8 +32,6 @@ def return_string_array(array)
   while i < array.length do
   new_array.push(array[i].to_s)
   i+=1 
-  puts new_array
-  binding.pry
-end
-
+  end
+puts new_array
 end
