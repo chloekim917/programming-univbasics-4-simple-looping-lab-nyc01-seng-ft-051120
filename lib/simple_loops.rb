@@ -17,3 +17,9 @@ end
 end
 
 def output_array(message, number)
+  i = 0 
+  while i<= number
+  puts message
+  i+=
+end
+end
